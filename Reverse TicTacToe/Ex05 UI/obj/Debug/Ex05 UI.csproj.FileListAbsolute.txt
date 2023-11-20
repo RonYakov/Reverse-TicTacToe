@@ -1,0 +1,15 @@
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\bin\Debug\Ex05 UI.exe.config
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\bin\Debug\Ex05 UI.exe
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\bin\Debug\Ex05 UI.pdb
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\bin\Debug\Ex05 Logic.dll
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\bin\Debug\Ex05 Logic.pdb
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\bin\Debug\Ex05 Logic.dll.config
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05 UI.csproj.AssemblyReference.cache
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05 UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05_UI.FormGameSettings.resources
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05_UI.FormTicTacToeMisere.resources
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05 UI.csproj.GenerateResource.cache
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05 UI.csproj.CoreCompileInputs.cache
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05 UI.csproj.CopyComplete
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05 UI.exe
+C:\Users\97252\Desktop\תרגילי בית\שנה ב\c#\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\B23 Ex05 MaiChaouat 318964194 RonYakov 314710922\Ex05 UI\obj\Debug\Ex05 UI.pdb
